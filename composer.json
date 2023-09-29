@@ -5,6 +5,7 @@
       "MiraSuite\\AlgoliaOrdersIndex\\": "includes/"
     }
   },
+  "type": "wordpress-plugin",
   "require": {
     "ext-openssl": "*",
     "ext-json": "*"
