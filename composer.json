@@ -1,0 +1,15 @@
+{
+  "name": "mira-suite/wp-search-with-algolia-orders-index",
+  "autoload": {
+    "psr-4": {
+      "MiraSuite\\AlgoliaOrdersIndex\\": "includes/"
+    }
+  },
+  "require": {
+    "ext-openssl": "*",
+    "ext-json": "*"
+  },
+  "config": {
+    "optimize-autoloader": true
+  }
+}

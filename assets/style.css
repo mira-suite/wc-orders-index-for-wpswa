@@ -1,0 +1,11 @@
+#autocomplete {
+    float: right;
+    min-width:420px;
+}
+
+#autocomplete .aa-Input:focus, #autocomplete input[type=search] {
+    box-shadow:none;
+    border:none;
+    border-radius: 0 !important;
+    background-color: transparent !important;
+}
